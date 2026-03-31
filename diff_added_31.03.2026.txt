@@ -1,0 +1,7 @@
+﻿A	.cursor/rules/agent-analis.mdc
+A	.cursor/rules/agent-ezhene╨┤╨╡╨╗╤М╨╜╨╛╨╡-obnovlenie.mdc
+A	.cursor/rules/agent-obnovlenie-failov.mdc
+A	.cursor/rules/messenger-deploy.mdc
+A	AGENTS.md
+A	Reports/╨Ю╤И╨╕╨▒╨║╨╕╨Т╤Л╨│╤А╤Г╨╖╨║╨╕╨Ч╨░╤П╨▓╨║╨╕╨Э╨░╨а╨╡╨╝╨╛╨╜╤ВDNM/Templates/╨Ю╤Б╨╜╨╛╨▓╨╜╨░╤П╨б╤Е╨╡╨╝╨░╨Ъ╨╛╨╝╨┐╨╛╨╜╨╛╨▓╨║╨╕╨Ф╨░╨╜╨╜╤Л╤Е/Ext/Template.xml
+A	_tmp_mirror_new_to_myconfig1.ps1

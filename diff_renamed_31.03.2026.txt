@@ -1,0 +1,14 @@
+﻿R076	DataProcessors/DataProcessors/╨в╤А╨░╨╜╤Б╨┐╨╛╤А╤В╨Ю╨▒╨╝╨╡╨╜╨░╨бAudaPadWeb.xml	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_Web.xml
+R099	DataProcessors/DataProcessors/Web_╨Ч╨░╨│╤А╤Г╨╖╨║╨░╨Ф╨░╨╜╨╜╤Л╤Е/Ext/ManagerModule.bsl	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_Web/Ext/ManagerModule.bsl
+R096	DataProcessors/DataProcessors/Web_╨Ч╨░╨│╤А╤Г╨╖╨║╨░╨Ф╨░╨╜╨╜╤Л╤Е/Ext/ObjectModule.bsl	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_Web/Ext/ObjectModule.bsl
+R096	DataProcessors/DataProcessors/ALLMaintenanceSchedule_╨Т╤Л╨│╤А╤Г╨╖╨║╨░╨Ф╨░╨╜╨╜╤Л╤Е/Forms/╨д╨╛╤А╨╝╨░.xml	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_Web/Forms/╨д╨╛╤А╨╝╨░.xml
+R070	DataProcessors/DataProcessors/╨Ю╨▒╨╜╨╛╨▓╨╗╨╡╨╜╨╕╨╡.xml	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_╨Ъ╨░╤Б╤Б╨░.xml
+R096	DataProcessors/DataProcessors/ABCXYZ╨Р╨╜╨░╨╗╨╕╨╖/Forms/╨д╨╛╤А╨╝╨░.xml	DataProcessors/╨Ю╤В╨╗╨░╨┤╨║╨░_╨Ъ╨░╤Б╤Б╨░/Forms/╨д╨╛╤А╨╝╨░.xml
+R091	Documents/Documents/╨Я╨╗╨░╤В╨╡╨╢╨╜╨╛╨╡╨Я╨╛╤А╤Г╤З╨╡╨╜╨╕╨╡/Forms/╨д╨╛╤А╨╝╨░╨Я╨╛╨┤╨▒╨╛╤А╨░╨Ч╨░╤П╨▓╨╛╨║╨Э╨░╨Я╨╗╨░╤В╨╡╨╢.xml	Documents/╨Т╨▓╨╛╨┤╨Т╨н╨║╤Б╨┐╨╗╤Г╨░╤В╨░╤Ж╨╕╤О/Forms/╨д╨╛╤А╨╝╨░╨Я╨╛╨┤╨▒╨╛╤А╨░╨Ч╨░╤П╨▓╨╛╨║╨Э╨░╨Я╨╗╨░╤В╨╡╨╢.xml
+R055	InformationRegisters/InformationRegisters/╨Ч╨░╨│╨╛╨╗╨╛╨▓╨║╨╕╨Я╨╛╨╗╤Г╤З╨╡╨╜╨╜╤Л╤Е╨Я╨╕╤Б╨╡╨╝.xml	InformationRegisters/Web_╨Т╨░╤А╨╕╨░╨╜╤В╤Л╨а╨╡╤И╨╡╨╜╨╕╤П╨Ю╤И╨╕╨▒╨╛╨║.xml
+R058	Catalogs/Catalogs/╨ж╨╡╨╜╨╜╤Л╨╡╨С╤Г╨╝╨░╨│╨╕.xml	InformationRegisters/Web_╨Ц╤Г╤А╨╜╨░╨╗╨Ю╤И╨╕╨▒╨╛╨║╨Ч╨░╨│╤А╤Г╨╖╨║╨╕.xml
+R056	InformationRegisters/InformationRegisters/╨и╨░╨▒╨╗╨╛╨╜╤Л╨Ч╨░╨║╨░╨╖╨Э╨░╤А╤П╨┤╨╛╨▓.xml	InformationRegisters/╨Ъ╨░╤Б╤Б╨░_╨а╨╡╤И╨╡╨╜╨╕╤П╨Ю╤И╨╕╨▒╨╛╨║.xml
+R061	InformationRegisters/InformationRegisters/╨Ю╨▒╤К╨╡╨║╤В╤Л╨Ф╨╗╤П╨Ч╨░╨╝╨╡╨╜╤Л.xml	InformationRegisters/╨Ъ╨╛╨╜╤В╨░╨║╤В╤Л╨Я╨╛╨┤╨┤╨╡╤А╨╢╨║╨╕.xml
+R096	AccumulationRegisters/AccumulationRegisters/╨Ь╨░╤А╨║╨╕╤А╨╛╨▓╨║╨░╨в╨╛╨▓╨░╤А╨╛╨▓╨Т╨Я╤А╨╛╨╕╨╖╨▓╨╛╨┤╤Б╤В╨▓╨╡/Forms/╨д╨╛╤А╨╝╨░╨б╨┐╨╕╤Б╨║╨░.xml	InformationRegisters/╨б╨╛╨╛╨▒╤Й╨╡╨╜╨╕╤П╨Я╨╛╨╗╤М╨╖╨╛╨▓╨░╤В╨╡╨╗╨╡╨╣/Forms/╨д╨╛╤А╨╝╨░╨б╨┐╨╕╤Б╨║╨░.xml
+R063	Reports/Reports/╨Р╨╜╨░╨╗╨╕╨╖╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╣╨Ъ╨╗╨╕╨╡╨╜╤В╨╛╨▓.xml	Reports/╨Ю╤И╨╕╨▒╨║╨╕╨Т╤Л╨│╤А╤Г╨╖╨║╨╕╨Ч╨░╤П╨▓╨║╨╕╨Э╨░╨а╨╡╨╝╨╛╨╜╤ВDNM.xml
+R095	DataProcessors/DataProcessors/╨а╨░╨▒╨╛╤З╨╕╨╣╨б╤В╨╛╨╗╨д╨╛╤В╨╛╨│╤А╨░╤Д╨░/Templates/╨Ю╤Б╨╜╨╛╨▓╨╜╨░╤П╨б╤Е╨╡╨╝╨░╨Ъ╨╛╨╝╨┐╨╛╨╜╨╛╨▓╨║╨╕╨Ф╨░╨╜╨╜╤Л╤Е.xml	Reports/╨Ю╤И╨╕╨▒╨║╨╕╨Т╤Л╨│╤А╤Г╨╖╨║╨╕╨Ч╨░╤П╨▓╨║╨╕╨Э╨░╨а╨╡╨╝╨╛╨╜╤ВDNM/Templates/╨Ю╤Б╨╜╨╛╨▓╨╜╨░╤П╨б╤Е╨╡╨╝╨░╨Ъ╨╛╨╝╨┐╨╛╨╜╨╛╨▓╨║╨╕╨Ф╨░╨╜╨╜╤Л╤Е.xml
