@@ -1,0 +1,6 @@
+﻿A	.cursor/rules/agent-kkt-54fz.mdc
+A	.cursor/worktrees.json
+A	Documents/╨Я╨╛╤Б╤В╤Г╨┐╨╗╨╡╨╜╨╕╨╡╨в╨╛╨▓╨░╤А╨╛╨▓/Forms/╨д╨╛╤А╨╝╨░╨Я╨╛╨┤╨▒╨╛╤А╨░╨Ч╨░╤П╨▓╨╛╨║╨Э╨░╨Я╨╗╨░╤В╨╡╨╢.xml
+A	InformationRegisters/╨Ш╤Б╤В╨╛╤А╨╕╤П╨а╨░╤Б╤З╨╡╤В╨░╨ж╨╡╨╜╨Р╨▓╤В╨╛╨╝╨╛╨▒╨╕╨╗╨╡╨╣.xml
+A	InformationRegisters/╨Ш╤Б╤В╨╛╤А╨╕╤П╨а╨░╤Б╤З╨╡╤В╨░╨ж╨╡╨╜╨Р╨▓╤В╨╛╨╝╨╛╨▒╨╕╨╗╨╡╨╣/Ext/ManagerModule.bsl
+A	InformationRegisters/╨Ш╤Б╤В╨╛╤А╨╕╤П╨а╨░╤Б╤З╨╡╤В╨░╨ж╨╡╨╜╨Р╨▓╤В╨╛╨╝╨╛╨▒╨╕╨╗╨╡╨╣/Ext/RecordSetModule.bsl
