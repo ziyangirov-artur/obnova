@@ -1,0 +1,17 @@
+﻿A	Catalogs/╨б╤В╨░╤В╤Г╤Б╨Т╨а╨╡╨╡╤Б╤В╤А╨╡.xml
+A	Catalogs/╨б╤В╨░╤В╤Г╤Б╨Т╨а╨╡╨╡╤Б╤В╤А╨╡/Forms/╨д╨╛╤А╨╝╨░╨б╨┐╨╕╤Б╨║╨░.xml
+M	CommonModules/Odin_╨Ч╨░╨║╨░╨╖╨Э╨░╤А╤П╨┤/Ext/Module.bsl
+M	CommonModules/Odin_╨Ю╨▒╤Й╨╕╨╣/Ext/Module.bsl
+M	CommonTemplates/╨Я╨╡╤З╨░╤В╤М╨Ф╨╕╨░╨│╤А╨░╨╝╨╝╤Л/Ext/Template.xml
+M	ConfigDumpInfo.xml
+M	Configuration.xml
+M	DataProcessors/╨Ч╨░╤П╨▓╨║╨╕╨а╨Ф╨б_╨С╨╕╤В╤А╨╕╨║╤Б/Ext/ObjectModule.bsl
+M	Documents/╨Р╨║╤В╨б╨▓╨╡╤А╨║╨╕╨Т╨╖╨░╨╕╨╝╨╛╤А╨░╤Б╤З╨╡╤В╨╛╨▓/Ext/ObjectModule.bsl
+M	Documents/╨Ч╨░╨║╨░╨╖╨Э╨░╤А╤П╨┤/Ext/ObjectModule.bsl
+M	Documents/╨Ч╨░╤П╨▓╨║╨░╨Э╨░╨Я╨╗╨░╤В╨╡╨╢.xml
+M	Documents/╨Ч╨░╤П╨▓╨║╨░╨Э╨░╨Я╨╗╨░╤В╨╡╨╢/Forms/╨д╨╛╤А╨╝╨░╨Ф╨╛╨║╤Г╨╝╨╡╨╜╤В╨░/Ext/Form.xml
+M	Documents/╨Я╨╛╤Б╤В╤Г╨┐╨╗╨╡╨╜╨╕╨╡╨в╨╛╨▓╨░╤А╨╛╨▓/Ext/ObjectModule.bsl
+M	InformationRegisters/╨Ю╤З╨╡╤А╨╡╨┤╤М╨Э╨░╨Я╨╛╨╗╤Г╤З╨╡╨╜╨╕╨╡╨б╨╡╤А╤В╨╕╤Д╨╕╨║╨░╤В╨░╨Т╤Л╨║╤Г╨┐╨░╨Ш╨╖Web/Ext/ManagerModule.bsl
+A	InformationRegisters/╨з╨╡╤А╨╜╤Л╨╣╨б╨┐╨╕╤Б╨╛╨║╨Ъ╨╗╨╕╨╡╨╜╤В╨╛╨▓.xml
+A	Interfaces/_╨а╤Г╨║╨╛╨▓╨╛╨┤╨╕╤В╨╡╨╗╤М╨Я╨б╨Ю_╨Ь╨╛╨╣╨║╨░_╨Ф╨╛╨┐╨Ю╨▒╨╛╤А╤Г╨┤.xml
+D	╨Т╨╜╨╡╤И╨╜╤П╤П╨Ю╨▒╤А╨░╨▒╨╛╤В╨║╨░_╨Т╨╕╨╖╨╕╤В╤Л╨Я╨╛╨в╨╡╨╗╨╡╤Д╨╛╨╜╨░╨╝_╨н╤В╨░╨┐1.bsl
